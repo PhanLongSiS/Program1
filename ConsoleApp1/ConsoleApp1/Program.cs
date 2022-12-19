@@ -12,7 +12,6 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Hello world");
             Console.WriteLine("sdfsd");
-            Console.WriteLine("Hello world");
             Console.WriteLine("sdfsd");
         }
     }
